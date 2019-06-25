@@ -36,15 +36,5 @@
         <item id="28" name="台湾红心芭乐番石榴" price="68.0" image="image/list04_item03_p0.jpg" image-count="4"/>
         <item id="29" name="新西兰红玫瑰苹果" price="88.0" image="image/list04_item04_p0.jpg" image-count="3"/>
         <item id="30" name="智利进口新鲜蓝莓" price="98.0" image="image/list04_item05_p0.jpg" image-count="3"/>
-<<<<<<< HEAD
-    </class>
-    <class name="鲜果切">
-        <item id="31" name="进口金煌芒果" price="38.0" image="image/list05_item01_p0.jpg" image-count="0"/>
-        <item id="32" name="现切混拼盘" price="12.0" image="image/list05_item02_p0.jpg" image-count="0"/>
-        <item id="33" name="现切牛奶木瓜" price="12.0" image="image/list05_item03_p0.jpg" image-count="0"/>
-        <item id="34" name="现切脐橙" price="12.0" image="image/list05_item04_p0.jpg" image-count="0"/>
-        <item id="35" name="现切生态猕猴桃" price="12.0" image="image/list05_item05_p0.jpg" image-count="0"/>
-=======
->>>>>>> 0ddbd6a2c0cd55fea0e0b85946104e28656f11ed
     </class>
 </root>
