@@ -1,0 +1,40 @@
+body{
+	margin: 0;
+	width: 100%;
+	height: 100%;
+
+}
+
+.head-image img{
+    width: 100%;
+    height: auto;
+}
+
+.box img{
+    border: none;
+    width: 100%;
+    height: auto;
+}
+
+.box img:hover{
+    transform: scale(1.05);
+    transition: all 150ms linear;
+}
+
+.group{
+    text-align: center;
+    overflow: hidden;
+}
+
+.box-wrap>div {
+    width: 50%;
+    float: left;
+}
+
+.box-title{
+    background-color: #FF5722;
+    color: white;
+    font-size: 22px;
+    height: auto;
+    padding: 20px;
+}
